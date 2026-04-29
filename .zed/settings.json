@@ -1,0 +1,21 @@
+{
+  "project_name": "Lilac",
+  "enable_language_server": false,
+  "languages": {
+    "Swift": {
+      "enable_language_server": true,
+      "language_servers": ["sourcekit-lsp", "package-version-server"],
+      "formatter": "language_server",
+      "format_on_save": "on",
+    },
+    "Markdown": {
+      "soft_wrap": "none",
+    },
+    "JSON": {
+      "enable_language_server": true,
+    },
+    "JSONC": {
+      "enable_language_server": true,
+    }
+  },
+}

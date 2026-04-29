@@ -4,9 +4,23 @@
 
 A Swift-based CLI for managing and backing up your dotfiles. It helps you collect the configs you care about and sync them across your machines, structured exactly the way you want.
 
+This is the 2nd project for the Swift Programming course. It covers the following topics:
+- [Structures and Classes](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures)
+- [Properties](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties)
+- [Methods](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods)
+- [Subscripts](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods)
+- [Inheritance](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance)
+- [Initialization](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization)
+- [Deinitialization](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/deinitialization)
+- [Optional Chaining](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining)
+- [Type Casting](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting)
+- [Nested Types](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/nestedtypes)
+
+The goal is to use the knowledge learned from these topics and put it into practice.
+
 > [!WARNING]
 > This project is intended for study purposes only.  
-> It follows a course-defined scope and focuses on a limited set of features.  
+> It follows a strict, course-defined scope. See [CHECKLIST.md](CHECKLIST.md) for exact requirements.  
 > Due to the submission deadline on **March 5, 2026**, some parts may be incomplete or experimental.  
 > There may be more complete or optimal approaches outside this scope.
 
